@@ -9,7 +9,7 @@ Step 3: Click on Import Project
 Step 4: Click to Repo by URL 
 and fill as the Git repository URL, specify a project name and click create the project button
 
-     
+    https://github.com/Security-Champions-Beta/ContainerSecurity_GitLabCI.git
 
 ![1.png](1.png)
 
