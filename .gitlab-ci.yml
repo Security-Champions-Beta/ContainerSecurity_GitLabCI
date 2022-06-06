@@ -116,3 +116,4 @@ trivy_scan:
       - trivy_result.json
 
     expire_in: 1 week
+    
